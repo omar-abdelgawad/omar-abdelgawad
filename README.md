@@ -1,5 +1,16 @@
 ### Hi there 👋 🧠
-- 🌱 I’m currently exploring Machine Learning🤖.
+- 👋 Hey there! I'm [@omar-abdelgawad](https://www.linkedin.com/in/omar-abdelgawad/)
+- 👀 I am interested in Machine learning🤖, and Machine Vision.
+- 🌱 I’m currently exploring GANs and LLMs.
+
+[![Linkedin Badge](https://img.shields.io/badge/-omarabdelgawad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-abdelgawad/)](https://www.linkedin.com/in/omar-abdelgawad/)
+---
+
+
+---
+
+[![Omar Abdelgawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-abdelgawad)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abdelgawad)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **omar-abdelgawad/omar-abdelgawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
