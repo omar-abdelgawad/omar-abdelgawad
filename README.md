@@ -10,7 +10,9 @@
 ---
 
 [![Omar Abdelgawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-abdelgawad)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abdelgawad)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abdelgawad&exclude_repo=fault-diag-svm&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **omar-abdelgawad/omar-abdelgawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
