@@ -1,7 +1,7 @@
 ### Hi there 👋 🧠
 - 👋 Hey there! I'm [@omar-abdelgawad](https://www.linkedin.com/in/omar-abdelgawad/)
 - 👀 I am interested in Machine learning🤖, and Machine Vision.
-- 🌱 I’m currently exploring GANs and LLMs.
+- 🌱 I’m currently exploring research in the biomedical field.
 
 [![Linkedin Badge](https://img.shields.io/badge/-omarabdelgawad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-abdelgawad/)](https://www.linkedin.com/in/omar-abdelgawad/)
 ---
