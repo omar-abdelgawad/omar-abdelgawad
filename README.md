@@ -3,13 +3,14 @@
 - 👀 I am interested in Machine learning🤖, and Machine Vision.
 - 🌱 I’m currently exploring research in the biomedical field.
 
+[![Gmail](https://img.shields.io/badge/omar.abdelgawad@ejust.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:omar.abdelgawad@ejust.edu.eg)](mailto:omar.abdelgawad@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-omarabdelgawad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-abdelgawad/)](https://www.linkedin.com/in/omar-abdelgawad/)
 ---
 
 
 ---
 
-[![Omar Abdelgawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-abdelgawad)](https://github.com/anuraghazra/github-readme-stats)
+[![Omar Abdelgawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-abdelgawad&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abdelgawad&hide=Jupyter%20%Notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
