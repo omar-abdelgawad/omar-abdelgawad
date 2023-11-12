@@ -1,7 +1,7 @@
 ### Hi there 👋 🧠
 - 👋 Hey there! I'm [@omar-abdelgawad](https://www.linkedin.com/in/omar-abdelgawad/)
 - 👀 I am interested in Machine learning🤖, and Machine Vision.
-- 🌱 I’m currently exploring GANs and research in the biomedical field.
+- 🌱 I’m currently exploring GANs, Reverse engineering, and research in the biomedical field.
 
 [![Gmail](https://img.shields.io/badge/omar.abdelgawad@ejust.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:omar.abdelgawad@ejust.edu.eg)](mailto:omar.abdelgawad@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-omarabdelgawad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-abdelgawad/)](https://www.linkedin.com/in/omar-abdelgawad/)
