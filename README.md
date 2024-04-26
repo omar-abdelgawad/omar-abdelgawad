@@ -14,7 +14,7 @@
 </div>
 
 [![readme-stats](https://github-readme-stats.vercel.app/api?username=omar-abdelgawad&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abdelgawad&theme=transparent&hide=Jupyter%20%Notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-abdelgawad&theme=transparent&hide=Jupyter%20%Notebook&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
