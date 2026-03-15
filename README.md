@@ -1,7 +1,7 @@
 ### Hi there 👋 🧠
 - 👋 Hey there! I'm [@omar-abdelgawad](https://www.linkedin.com/in/omar-abdelgawad/)
-- 👀 I am interested in Machine learning🤖, and Machine Vision.
-- 🌱 I’m currently learning Rust and doing my graduation project.
+- 👀 I am interested in Machine learning 🤖, and Machine Vision.
+- 🌱 I just recently graduated and I’m currently learning Rust 🦀.
 
 [![Gmail](https://img.shields.io/badge/omar.abdelgawad@ejust.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:omar.abdelgawad@ejust.edu.eg)](mailto:omar.abdelgawad@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-omarabdelgawad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-abdelgawad/)](https://www.linkedin.com/in/omar-abdelgawad/)
